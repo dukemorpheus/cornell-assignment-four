@@ -1,0 +1,156 @@
+{
+	"stepdata_years":
+		{
+			"2018": [
+				{
+					"month": "January",
+					"steps": 369.3429593991363
+				},
+				{
+					"month": "February",
+					"steps": 364.7972757262956
+				},
+				{
+					"month": "March",
+					"steps": 345.64894731241216
+				},
+				{
+					"month": "April",
+					"steps": 348.6622270265426
+				},
+				{
+					"month": "May",
+					"steps": 375.99233798020648
+				},
+				{
+					"month": "June",
+					"steps": 389.46136224887007
+				},
+				{
+					"month": "July",
+					"steps": 386.1523554549884
+				},
+				{
+					"month": "August",
+					"steps": 393.48952353214636
+				},
+				{
+					"month": "September",
+					"steps": 400
+				},
+				{
+					"month": "October",
+					"steps": 395.90462801678026
+				},
+				{
+					"month": "November",
+					"steps": 389.03121376923209
+				},
+				{
+					"month": "December",
+					"steps": 371.28982934083106
+				}
+			],
+			"2019": [
+				{
+					"month": "January",
+					"steps": 287.07348837209306
+				},
+				{
+					"month": "February",
+					"steps": 354.04279069767446
+				},
+				{
+					"month": "March",
+					"steps": 327.16093023255817
+				},
+				{
+					"month": "April",
+					"steps": 337.27255813953487
+				},
+				{
+					"month": "May",
+					"steps": 323.4046511627907
+				},
+				{
+					"month": "June",
+					"steps": 290.77767441860467
+				},
+				{
+					"month": "July",
+					"steps": 354.033488372093
+				},
+				{
+					"month": "August",
+					"steps": 384.98232558139537
+				},
+				{
+					"month": "September",
+					"steps": 374.48
+				},
+				{
+					"month": "October",
+					"steps": 336.62883720930236
+				},
+				{
+					"month": "November",
+					"steps": 354.59534883720928
+				},
+				{
+					"month": "December",
+					"steps": 400
+				}
+			],
+			"2020": [
+				{
+					"month": "January",
+					"steps": 379.60348538433098
+				},
+				{
+					"month": "February",
+					"steps": 400
+				},
+				{
+					"month": "March",
+					"steps": 266.207131953465
+				},
+				{
+					"month": "April",
+					"steps": 275.0173036626876
+				},
+				{
+					"month": "May",
+					"steps": 339.30159572955088
+				},
+				{
+					"month": "June",
+					"steps": 382.9144108695446
+				},
+				{
+					"month": "July",
+					"steps": 292.4138846485697
+				},
+				{
+					"month": "August",
+					"steps": 366.0772359650703
+				},
+				{
+					"month": "September",
+					"steps": 374.0492466980819
+				},
+				{
+					"month": "October",
+					"steps": 386.55718742000019
+				},
+				{
+					"month": "November",
+					"steps": 398.78637324711527
+				},
+				{
+					"month": "December",
+					"steps": 382.72667798120775
+				}
+			]
+		}
+	
+}
